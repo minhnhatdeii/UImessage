@@ -1,0 +1,21 @@
+.call {
+    -fx-background-color: #dadada;
+    -fx-background-radius: 70.0;
+}
+
+.function {
+    -fx-background-color: rgb(255, 255, 255);
+    -fx-background-radius: 70.0;
+}
+
+.text_field {
+    -fx-border-radius: 30.0;
+    -fx-border-color: #000000;
+    -fx-border-width: 1;
+}
+
+.button_hover:hover {
+    -fx-scale-x: 1.1;
+    -fx-scale-y: 1.1;
+    -fx-cursor: hand;
+}

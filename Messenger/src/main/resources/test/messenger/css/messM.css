@@ -1,0 +1,11 @@
+.mymess {
+    -fx-background-color: rgba(83, 167, 167, 0.91);
+    -fx-background-radius: 20 0 20 20;
+    -fx-text-fill: #e7e7e7;
+}
+
+.yourmess {
+    -fx-background-color: rgb(162, 157, 26);
+    -fx-background-radius: 0 20 20 20;
+    -fx-text-fill: #e7e7e7;
+}
